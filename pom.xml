@@ -31,6 +31,10 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>guru.springframework:chuck-norris-for-actuator:2.4.0</groupId>
+            <artifactId></artifactId>
+        </dependency>
     </dependencies>
 
     <build>
