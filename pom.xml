@@ -32,8 +32,9 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>guru.springframework:chuck-norris-for-actuator:2.4.0</groupId>
-            <artifactId></artifactId>
+            <groupId>guru.springframework</groupId>
+            <artifactId>chuck-norris-for-actuator</artifactId>
+            <version>2.4.0</version>
         </dependency>
     </dependencies>
 
@@ -42,6 +43,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.5.0</version>
             </plugin>
         </plugins>
     </build>
